@@ -13,6 +13,7 @@
     </options>
     <keywords keywords="class;fun;if;val;var;while" ignore_case="false" />
     <keywords2 keywords="Boolean;Double;Int;String" />
+    <keywords3 keywords="Array" />
   </highlighting>
   <extensionMap>
     <mapping ext="an" />
