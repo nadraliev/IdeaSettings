@@ -15,7 +15,4 @@
     <keywords2 keywords="Boolean;Double;Int;String" />
     <keywords3 keywords="Array" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="an" />
-  </extensionMap>
 </filetype>
