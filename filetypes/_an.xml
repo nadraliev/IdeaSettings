@@ -14,6 +14,7 @@
     <keywords keywords="class;false;for;fun;if;in;return;true;val;var;while" ignore_case="false" />
     <keywords2 keywords="Boolean;Double;Int;String" />
     <keywords3 keywords="Array" />
+    <keywords4 keywords="@" />
   </highlighting>
   <extensionMap>
     <mapping ext="an" />
